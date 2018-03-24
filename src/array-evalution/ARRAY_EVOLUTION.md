@@ -40,8 +40,8 @@ Obviously, a mathematical calculation will take way lesser time than an linked-l
 ## Evolution of JavaScript Arrays
 
 However, JavaScript has evolved a lot.
-JavaScript engines these days actually allocate contiguous memory for its arrays, if the array is homogeneous (all 
- elements of same type). `JIT` takes the advantage of it and does all array reading calculation just like the way `C` 
+JavaScript engines these days actually allocate contiguous memory for its arrays, if the array is homogeneous. `JIT` 
+ takes the advantage of it and does all array reading calculation just like the way `C` 
  compiler does. 
 
 So, if you are writing a good codes, JavaScript Array objects maintains an actual array behind the scene.
