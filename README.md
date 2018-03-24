@@ -18,7 +18,7 @@ Seems, you already can fly like a bird, and swim like a fish.
 If you feel you need & want more than you know, then you are welcome. Note, these will literally eat your time as you
  get more and more involved. So, be ready for it.
 
-All the topic will be around: `Node.js`, `V8`, and `libuv`.
+All the topics will be around: `Node.js`, `V8`, and `libuv`.
  
 Topics we consider:
 * [Array evolution](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/src/array-evalution/ARRAY_EVOLUTION.md)
