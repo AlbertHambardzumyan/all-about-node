@@ -21,7 +21,7 @@ If you feel you need & want more than you know, then you are welcome. Note, thes
 All the topic will be around: `Node.js`, `V8`, and `libuv`.
  
 Topics we consider:
-* [Array evolution & performance]()
+* [Array evolution](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/src/array-evalution/ARRAY_EVOLUTION.md)
 * [Hash Tables optimization]()
 * [Thread-pool]()
 * [Event loop lifecycle]()
