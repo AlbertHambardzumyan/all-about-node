@@ -55,7 +55,7 @@ The arrays have evolved even more with `ES2015` or `ES6`. `TC39` decided to incl
  complicated. So we have `Views` to deal with `ArrayBuffer`.
  
 ```javascript
-var buffer = new ArrayBuffer(10)
+var buffer = new ArrayBuffer(16)
 var view   = new Int32Array(buffer)
 
 view[3] = 77
