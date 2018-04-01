@@ -32,11 +32,11 @@ Nowadays, we have a wide variety of loops and we mostly use few of them. The mos
 
 Let's go ahead and compare them to figure out which one is the fastest one.
 
-Node version: 8.10.0
-Processor 2.6 GHz Intel Core i7
-Memory - 16 GB 2133 MHz LPDDR3
-OS - mac Sierra, Version 10.13.3
-Benchmark size 1e7
+* Node version: 8.10.0
+* Processor 2.6 GHz Intel Core i7
+* Memory - 16 GB 2133 MHz LPDDR3
+* OS - mac Sierra, Version 10.13.3
+* Benchmark size 1e7
 
 
 ## for loop up
