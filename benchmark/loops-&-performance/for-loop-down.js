@@ -2,7 +2,7 @@
 
 const Benchmark = require('../benchmark.js')
 
-const SIZE = 1e9
+const SIZE = 1e7
 
 const bench = Benchmark.createBenchmark(main, {
   n: SIZE
