@@ -46,7 +46,7 @@ Ordinary for loop to iterate through array counting up.
 The best result out of 5 attempts:
 
 * `timeMilliseconds: 9.116305`
-* `rateNanoseconds: 9.116305`
+* `rateNanoseconds: 0.9116305`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-loop-up.js)
 
