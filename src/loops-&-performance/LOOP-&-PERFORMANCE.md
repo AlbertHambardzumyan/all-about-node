@@ -44,8 +44,9 @@ Let's go ahead and compare them to figure out which one is the fastest one.
 Ordinary for loop to iterate through array counting up.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 9.116305`
-`rateNanoseconds: 9.116305`
+
+* `timeMilliseconds: 9.116305`
+* `rateNanoseconds: 9.116305`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-loop-up.js)
 
@@ -55,8 +56,9 @@ The best result out of 5 attempts:
 Ordinary for loop to iterate through array counting down.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 9.140173`
-`rateNanoseconds: 0.9140173`
+
+* `timeMilliseconds: 9.140173`
+* `rateNanoseconds: 0.9140173`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-loop-down.js)
 
@@ -65,8 +67,9 @@ The best result out of 5 attempts:
 Using for..each to iterate through array. A of developers like it as its syntactically convenient.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 52.477558`
-`rateNanoseconds: 5.2477558`
+
+* `timeMilliseconds: 52.477558`
+* `rateNanoseconds: 5.2477558`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-each.js)
 
@@ -75,8 +78,9 @@ The best result out of 5 attempts:
 Using for..of to iterate through array. This loop iterating over iterable objects.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 33.118185`
-`rateNanoseconds: 3.3921659`
+
+* `timeMilliseconds: 33.118185`
+* `rateNanoseconds: 3.3921659`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-of.js)
 
@@ -85,8 +89,9 @@ The best result out of 5 attempts:
 Using for..in to iterate through array. This loop iterates over the enumerable properties of an object.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 63.892476`
-`rateNanoseconds: 6.3892476`
+
+* `timeMilliseconds: 63.892476`
+* `rateNanoseconds: 6.3892476`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-in.js)
 
@@ -96,8 +101,9 @@ The best result out of 5 attempts:
 Cached for loop to iterate through array counting up.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 8.919227`
-`rateNanoseconds: 0.8919227`
+
+* `timeMilliseconds: 8.919227`
+* `rateNanoseconds: 0.8919227`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/cached-for-loop-up.js)
 
@@ -107,8 +113,9 @@ The best result out of 5 attempts:
 Ordinary for loop to iterate through array counting down with on comparison.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 8.883053`
-`rateNanoseconds: 0.8883053`
+
+* `timeMilliseconds: 8.883053`
+* `rateNanoseconds: 0.8883053`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-loop-down-no-comparison.js)
 
@@ -118,8 +125,9 @@ The best result out of 5 attempts:
 while loop to iterate through array counting up.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 9.158537`
-`rateNanoseconds: 0.9158537`
+
+* `timeMilliseconds: 9.158537`
+* `rateNanoseconds: 0.9158537`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/while-loop-up.js)
 
@@ -129,8 +137,9 @@ The best result out of 5 attempts:
 while loop to iterate through array counting down.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 9.113763`
-`rateNanoseconds: 0.9113763`
+
+* `timeMilliseconds: 9.113763`
+* `rateNanoseconds: 0.9113763`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/while-loop-down.js)
 
@@ -140,8 +149,9 @@ The best result out of 5 attempts:
 while loop to iterate through array counting down with no comparison.
 
 The best result out of 5 attempts:
-`timeMilliseconds: 9.074308`
-`rateNanoseconds: 0.9074308`
+
+* `timeMilliseconds: 9.074308`
+* `rateNanoseconds: 0.9074308`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/while-loop-down-no-comparison.js)
 
