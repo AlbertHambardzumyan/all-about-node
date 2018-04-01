@@ -45,8 +45,8 @@ Ordinary for loop to iterate through array counting up.
 
 The best result out of 5 attempts:
 
-* `timeMilliseconds: 9.116305`
-* `rateNanoseconds: 0.9116305`
+* `timeMilliseconds: 8.79721`
+* `rateNanoseconds: 0.879721`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-loop-up.js)
 
@@ -57,8 +57,8 @@ Ordinary for loop to iterate through array counting down.
 
 The best result out of 5 attempts:
 
-* `timeMilliseconds: 9.140173`
-* `rateNanoseconds: 0.9140173`
+* `timeMilliseconds: 8.576543`
+* `rateNanoseconds: 0.8576543`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-loop-down.js)
 
@@ -102,8 +102,8 @@ Cached for loop to iterate through array counting up.
 
 The best result out of 5 attempts:
 
-* `timeMilliseconds: 8.919227`
-* `rateNanoseconds: 0.8919227`
+* `timeMilliseconds: 8.581676`
+* `rateNanoseconds: 0.8581676`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/cached-for-loop-up.js)
 
@@ -114,8 +114,8 @@ Ordinary for loop to iterate through array counting down with on comparison.
 
 The best result out of 5 attempts:
 
-* `timeMilliseconds: 8.883053`
-* `rateNanoseconds: 0.8883053`
+* `timeMilliseconds: 8.521664`
+* `rateNanoseconds: 0.8521664`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/for-loop-down-no-comparison.js)
 
@@ -126,8 +126,8 @@ while loop to iterate through array counting up.
 
 The best result out of 5 attempts:
 
-* `timeMilliseconds: 9.158537`
-* `rateNanoseconds: 0.9158537`
+* `timeMilliseconds: 8.79717`
+* `rateNanoseconds: 0.879717`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/while-loop-up.js)
 
@@ -138,8 +138,8 @@ while loop to iterate through array counting down.
 
 The best result out of 5 attempts:
 
-* `timeMilliseconds: 9.113763`
-* `rateNanoseconds: 0.9113763`
+* `timeMilliseconds: 8.711905`
+* `rateNanoseconds: 0.8711905`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/while-loop-down.js)
 
@@ -150,8 +150,8 @@ while loop to iterate through array counting down with no comparison.
 
 The best result out of 5 attempts:
 
-* `timeMilliseconds: 9.074308`
-* `rateNanoseconds: 0.9074308`
+* `timeMilliseconds: 8.591619`
+* `rateNanoseconds: 0.8591619`
 
 [Benchmark source](https://github.com/AlbertHambardzumyan/all-about-node/blob/master/benchmark/loops-%26-performance/while-loop-down-no-comparison.js)
 
